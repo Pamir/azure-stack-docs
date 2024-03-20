@@ -17,7 +17,7 @@ ms.reviewer: abha
 
 [!INCLUDE [applies-to-azure stack-hci-and-windows-server-skus](includes/aks-hci-applies-to-skus/aks-hybrid-applies-to-azure-stack-hci-windows-server-sku.md)]
 
-This article describes how to monitor your Azure Kubernetes Service (AKS) deployment and collect logging data in AKS enabled by Azure Arc. You learn how to set up and access on-premises monitoring using `Prometheus` and `Graphana`, and how to collect and view logs using `Elasticsearch`, `Fluent Bit`, and `Kibana` (EFK).
+This article describes how to monitor your Azure Kubernetes Service (AKS) deployment and collect logging data in AKS enabled by Azure Arc. You learn how to set up and access on-premises monitoring using `Prometheus` and `Grafana`, and how to collect and view logs using `Elasticsearch`, `Fluent Bit`, and `Kibana` (EFK).
 
 Two types of monitoring and logging solutions are available, as described in the following table:
 
